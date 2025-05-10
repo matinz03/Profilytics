@@ -19,12 +19,12 @@ export default function CTA() {
       >
         <div className="flex gap-4">
           <img
-            src="/output_brand.png"
+            src="output_brand.png"
             alt="Brand Output"
             className="w-32 h-auto rounded shadow-md"
           />
           <img
-            src="/output_region.png"
+            src="output_region.png"
             alt="Region Output"
             className="w-32 h-auto rounded shadow-md"
           />
