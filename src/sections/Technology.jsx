@@ -36,7 +36,7 @@ export default function Technology() {
           onClick={() => navigate("/CTA")}
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          className="rounded-xl p-6 text-lg font-semibold text-white bg-gradient-to-br from-[#8a1e8a]/60 to-[#0a192f]/80 shadow-lg border border-white/10 backdrop-blur-md"
+          className="rounded-xl p-6 text-lg font-semibold text-white bg-gradient-to-br from-[#8a1e8a]/60 to-[#0a192f]/80 shadow-lg border border-white/10 backdrop-blur-md cursor-pointer"
         >
           Get Started
         </motion.div>
