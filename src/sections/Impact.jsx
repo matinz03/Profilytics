@@ -59,8 +59,7 @@ export default function Impact() {
         className="mt-6"
       >
         <p className="text-lg text-slate-300">
-          Faster claims, better underwriting, and increased fraud detection
-          accuracy.
+         Know where to price, who to keep, and what to insure — before the competition does.
         </p>
       </motion.div>
 
