@@ -16,7 +16,7 @@ export default function CTA() {
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          className="p-8 rounded-2xl bg-gradient-to-br from-[#1e46b4] via-[#0f6efc] to-[#0f172a] text-white font-semibold shadow-xl hover:brightness-110 flex flex-col items-center gap-6 cursor-disabled"
+          className="p-8 rounded-2xl bg-gradient-to-br from-[#1e46b4] via-[#0f6efc] to-[#0f172a] text-white font-semibold shadow-xl hover:brightness-110 flex flex-col items-center gap-6 cursor-pointer"
         >
           <div className="flex gap-8">
             <img
